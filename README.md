@@ -31,7 +31,7 @@ Uses a wrapper around the Nmap Scripting Engine (NSE) script 'smb2-security-mode
 
 
     git clone https://github.com/Anonymous-Family/Zero-day-scanning.git
-    cd zeroscan/
+    cd Zero-day-scanning/
     virtualenv -p /usr/bin/python3.9 venv
     source venv/bin/activate
     python3 -m pip install -r requirements.txt
