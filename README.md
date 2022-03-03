@@ -104,4 +104,4 @@ SMB2-SECURITY-MODE
 
 **Demo - Multi-target:**
 
-![Zeroscan Demo](demo/zeroscan-demo.gif)
+![Zeroscan Demo](https://github.com/Anonymous-Family)
