@@ -7,7 +7,7 @@ Zeroscan is a Domain Controller vulnerability scanner, that currently includes c
 **CVE-2020-1472:**
 
 Uses a built-in script to check for Zerologon (CVE-2020-1472), but does NOT attempt to exploit the target, it is simply a vulnerability scanner. 
-Codebase borrowed from: https://github.com/SecuraBV/CVE-2020-1472 
+Codebase borrowed from: https://github.com/Anonymous-Family/CVE-2020-1472.git 
 
 <br>
 
@@ -30,7 +30,7 @@ Uses a wrapper around the Nmap Scripting Engine (NSE) script 'smb2-security-mode
 **Installation:**
 
 
-    git clone https://github.com/NickSanzotta/zeroscan.git
+    git clone https://github.com/Anonymous-Family/Zero-day-scanning.git
     cd zeroscan/
     virtualenv -p /usr/bin/python3.9 venv
     source venv/bin/activate
